@@ -64,18 +64,5 @@
   <a href="https://github.com/rohan-sonune"><img src="https://skillicons.dev/icons?i=github" height="45"></a>
 </p>
 
----
-<div align="center">
 
-### ⭐ Rate This Repository
-
-[★](https://github.com/your-username/your-repo)
-[★](https://github.com/your-username/your-repo)
-[★](https://github.com/your-username/your-repo)
-[★](https://github.com/your-username/your-repo)
-[★](https://github.com/your-username/your-repo)
-
-<p>Click on a star to give your rating and ⭐ your favorite repo!</p>
-
-</div>
 
