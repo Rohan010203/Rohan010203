@@ -61,7 +61,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/your-linkedin"><img src="https://skillicons.dev/icons?i=linkedin" height="45"></a>
   <a href="mailto:rsonune108@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"></a>
-  <a href="https://github.com/rohan-sonune"><img src="https://skillicons.dev/icons?i=github" height="45"></a>
+  <a href="https://github.com/Rohan010203"><img src="https://skillicons.dev/icons?i=github" height="45"></a>
 </p>
 
 
