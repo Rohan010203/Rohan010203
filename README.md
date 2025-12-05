@@ -51,21 +51,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rohan010203&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohan010203&theme=radical" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan010203&layout=compact&theme=radical" width="38%" />
-</p>
-
-
----
-
-### 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Rohan010203/Rohan010203/output/github-snake.svg" />
 </p>
 
 ---
@@ -79,6 +65,17 @@
 </p>
 
 ---
+<div align="center">
 
+### ⭐ Rate This Repository
 
-⭐ *If you like my work, consider giving a star to my repositories!*
+[★](https://github.com/your-username/your-repo)
+[★](https://github.com/your-username/your-repo)
+[★](https://github.com/your-username/your-repo)
+[★](https://github.com/your-username/your-repo)
+[★](https://github.com/your-username/your-repo)
+
+<p>Click on a star to give your rating and ⭐ your favorite repo!</p>
+
+</div>
+
