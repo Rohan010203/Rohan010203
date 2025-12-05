@@ -10,13 +10,13 @@
 ---
 
 ### 🚀 About Me
-<img align="right" width="200px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="175px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🎓 Currently pursuing **B.Tech**
 - 🔍 Interested in **AI & Machine Learning, Web Development, and Data Analytics**
 - 💡 Passionate about building impactful solutions through technology
 - 📚 Always learning & improving every single day
-- 🚀 Working on: *Predictive Modelling, BI & DWH, NLP-based systems, and Number Plate Recognition*
+- 🚀 Working on: *Machine Learning, PowerBI, NLP-based systems,web Development and Number Plate Recognition*
 
 
 
