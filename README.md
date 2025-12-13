@@ -4,7 +4,7 @@
 <h3 align="center">B.Tech Student | Aspiring Data Scientist & Software Developer | AI-ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI/ML+Explorer;Data+Science+Enthusiast;Always+Learning+New+Things!&center=true&width=500&height=45&color=00E8FF&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI/ML+Explorer;Data+Science+Enthusiast;Always+Learning+New+Things!&center=true&width=500&height=50&color=FFFF00&size=24">
 </p>
 
 ---
@@ -65,4 +65,4 @@
 </p>
 
 
-
+## 🌟 “Keep learning, keep growing, and always strive to make an impact!” 🌟
