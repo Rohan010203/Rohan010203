@@ -49,10 +49,11 @@
 ---
 
 ### 📊 GitHub Stats
+![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohan010203&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohan010203&theme=radical" width="48%" />
-</p>
+## 💻 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan010203&layout=compact&theme=tokyonight)
+
 
 ---
 
