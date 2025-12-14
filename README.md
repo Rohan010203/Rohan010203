@@ -26,7 +26,7 @@
 
 #### 🔹 Languages & Tools  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,cpp,mysql" height="50"/>
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,cpp,mysql" height="50"/>
 
 <p>
   
