@@ -13,10 +13,10 @@
 <img align="right" width="175px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🎓 B.Tech Graduate in Computer Science Engineering (AI)
-- 🔍 Interested in **AI & Machine Learning, Web Development, and Data Analytics**
+- 🔍 Interested in **AI & Machine Learning, Data Science and Data Analytics**
 - 💡 Passionate about building impactful solutions through technology
 - 📚 Always learning & improving every single day
-- 🚀 Working on: *Machine Learning, PowerBI, NLP-based systems,web Development and Number Plate Recognition*
+- 🚀 Working on: *Data Analyst,Data Science,Machine Learning, PowerBI, NLP-based system and Number Plate Recognition*
 
 
 
