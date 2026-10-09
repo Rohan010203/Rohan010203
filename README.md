@@ -16,7 +16,7 @@
 - 🔍 Interested in **AI & Machine Learning, Data Science and Data Analytics**
 - 💡 Passionate about building impactful solutions through technology
 - 📚 Always learning & improving every single day
-- 🚀 Working on: *Data Analyst,Data Science,Machine Learning, PowerBI, NLP-based system and Number Plate Recognition*
+- 🚀 Working on: *Data Analyst,Data Science,Machine Learning, PowerBI, NLP-based system*
 
 
 
